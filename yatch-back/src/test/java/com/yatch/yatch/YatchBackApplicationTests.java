@@ -1,4 +1,4 @@
-package com.yatch.Yatch_back;
+package com.yatch.yatch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
